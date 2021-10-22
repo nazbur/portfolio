@@ -63,7 +63,7 @@ h3 {
 
 header h1 {
   margin: 0;
-  color: #7FFFD4;
+  color: black;
   font-family: 'Abril Fatface', cursive;
   font-size:52px;
   /* text-align: center; */
@@ -71,7 +71,7 @@ header h1 {
 }
 
 main  header h2 {
-  color:#7FFFD4;
+  color:black;
   font-size: 24px;
 }
 
@@ -80,7 +80,7 @@ main  p {
 }
 
 main   {
-  color: yellow;
+  color: black;
   font-size: 24px;
 }
 
@@ -123,7 +123,7 @@ nav,
 
 
 main  p {
-  color: yellow;
+  color: black;
 }
 
 main  {
@@ -134,7 +134,7 @@ main  {
 
 
 footer nav p {
-  color: pink;
+  color: black;
 }
 
 
