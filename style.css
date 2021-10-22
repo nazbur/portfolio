@@ -11,7 +11,7 @@ font-size: 16px;
 }
 
 ul{
-color:white;
+color:#7FFD4;
 font-size: 16px;
 }
 /* Horizontal divider with img */
@@ -45,25 +45,25 @@ body {
 }
 
 header {
-  background-color: green;
+  background-color: #0cc070;
 }
 header h2 {
   background-color: light grey;
 }
 h1, h2, p {
-  color: white;
+  color: #7FFD4;
   font-size: 28px;
 }
 
 
 h3 {
-  color: white;
+  color: #7FFD4;
   font-size: 28px;
 }
 
 header h1 {
   margin: 0;
-  color: white;
+  color: #7FFD4;
   font-family: 'Abril Fatface', cursive;
   font-size:52px;
   /* text-align: center; */
@@ -71,7 +71,7 @@ header h1 {
 }
 
 main  header h2 {
-  color: white;
+  color:#7FFD4;
   font-size: 24px;
 }
 
@@ -80,7 +80,7 @@ main  p {
 }
 
 main   {
-  color: grey;
+  color: #7FFD4;
   font-size: 24px;
 }
 
@@ -129,12 +129,12 @@ main  p {
 main  {
   border: 3px solid #668284;
   padding: 10px;
-  background-color: grey;
+  background-color: #BBD4D4;
 }
 
 
 footer nav p {
-  color: white;
+  color: #7FFD4;
 }
 
 
