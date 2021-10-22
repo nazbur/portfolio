@@ -1,0 +1,143 @@
+/* Link Colors */
+a:link { color: white;}
+a:visited { color: black;}
+a:hover { color: pink;}
+a:active { color: light green;}
+
+/* List Ordered and Unordered */
+ol{
+color:white;
+font-size: 16px;
+}
+
+ul{
+color:white;
+font-size: 16px;
+}
+/* Horizontal divider with img */
+hr{
+text-align: center;
+width: 420px;
+height: 100px;
+border: none;
+margin-top: 30px;
+margin-bottom: 20px;
+background-image:
+url("new.gif");
+}
+img{
+width: 5 px;
+height: 5 px;
+}
+
+.image-circle{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+border-radius: 25%;
+
+}
+/* Body with bg img */
+body {
+  margin: 0;
+  background-image: url("ob.PNG");
+}
+
+header {
+  background-color: green;
+}
+header h2 {
+  background-color: light grey;
+}
+h1, h2, p {
+  color: white;
+  font-size: 28px;
+}
+
+
+h3 {
+  color: white;
+  font-size: 28px;
+}
+
+header h1 {
+  margin: 0;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size:52px;
+  /* text-align: center; */
+  padding: 60px 0 20px 20px;
+}
+
+main  header h2 {
+  color: white;
+  font-size: 24px;
+}
+
+main  p {
+  font-size: 16px;
+}
+
+main   {
+  color: grey;
+  font-size: 24px;
+}
+
+main  header h2 , 
+main  p, 
+footer  nav p {
+  text-align: left;
+}
+
+
+
+header,
+nav,
+main,
+footer {
+  font-family: 'Oswald', sans-serif;
+}
+
+header  h1 {
+  text-align: left;
+  font-size: 70px;
+  margin: 0;
+  font-family: 'Permanent Marker', cursive;
+}
+
+header  nav {
+  margin: 0 0 30px 30px;
+}
+
+
+
+
+
+nav,
+ {
+  width: 300px;
+  margin: auto;
+}
+
+
+
+main  p {
+  color: white;
+}
+
+main  {
+  border: 3px solid #668284;
+  padding: 10px;
+  background-color: grey;
+}
+
+
+footer nav p {
+  color: white;
+}
+
+
+
+
+
