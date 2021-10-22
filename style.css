@@ -1,5 +1,5 @@
 /* Link Colors */
-a:link { color: white;}
+a:link { color: #7FFFD4;}
 a:visited { color: black;}
 a:hover { color: pink;}
 a:active { color: light green;}
@@ -123,7 +123,7 @@ nav,
 
 
 main  p {
-  color: white;
+  color: #7FFFD4;
 }
 
 main  {
