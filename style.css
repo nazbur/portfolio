@@ -6,12 +6,12 @@ a:active { color: light green;}
 
 /* List Ordered and Unordered */
 ol{
-color:white;
+  color:#7FFFD4;
 font-size: 16px;
 }
 
 ul{
-color:#7FFD4;
+color:#7FFFD4;
 font-size: 16px;
 }
 /* Horizontal divider with img */
