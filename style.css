@@ -51,19 +51,19 @@ header h2 {
   background-color: light grey;
 }
 h1, h2, p {
-  color: #7FFD4;
+  color: #7FFFD4;
   font-size: 28px;
 }
 
 
 h3 {
-  color: #7FFD4;
+  color: #7FFFD4;
   font-size: 28px;
 }
 
 header h1 {
   margin: 0;
-  color: #7FFD4;
+  color: #7FFFD4;
   font-family: 'Abril Fatface', cursive;
   font-size:52px;
   /* text-align: center; */
@@ -71,7 +71,7 @@ header h1 {
 }
 
 main  header h2 {
-  color:#7FFD4;
+  color:#7FFFD4;
   font-size: 24px;
 }
 
@@ -80,7 +80,7 @@ main  p {
 }
 
 main   {
-  color: #7FFD4;
+  color: #7FFFD4;
   font-size: 24px;
 }
 
@@ -134,7 +134,7 @@ main  {
 
 
 footer nav p {
-  color: #7FFD4;
+  color: #7FFFD4;
 }
 
 
