@@ -11,7 +11,7 @@ font-size: 16px;
 }
 
 ul{
-color:#7FFFD4;
+color:black;
 font-size: 16px;
 }
 /* Horizontal divider with img */
@@ -57,7 +57,7 @@ h1, h2, p {
 
 
 h3 {
-  color: #7FFFD4;
+  color: black;
   font-size: 28px;
 }
 
@@ -80,7 +80,7 @@ main  p {
 }
 
 main   {
-  color: #7FFFD4;
+  color: yellow;
   font-size: 24px;
 }
 
@@ -134,7 +134,7 @@ main  {
 
 
 footer nav p {
-  color: #7FFFD4;
+  color: yellow;
 }
 
 
