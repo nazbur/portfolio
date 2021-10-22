@@ -1,5 +1,5 @@
 /* Link Colors */
-a:link { color: #7FFFD4;}
+a:link { color: black;}
 a:visited { color: black;}
 a:hover { color: pink;}
 a:active { color: light green;}
@@ -51,7 +51,7 @@ header h2 {
   background-color: light grey;
 }
 h1, h2, p {
-  color: #7FFFD4;
+  color: black;
   font-size: 28px;
 }
 
