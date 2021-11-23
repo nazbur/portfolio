@@ -1,5 +1,5 @@
-import {math} from './math.js';
-import {voxels} from './voxels.js';
+import {math} from 'math.js';
+import {voxels} from 'voxels.js';
 
 
 export const clouds = (function() {
